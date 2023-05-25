@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1651109889 source:c:\users\samme\onedrive\escritorio\sedl\reproductor de musica\main.cpp
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	"Lista.h"
+	"Cancion.h"
+
+1651169110 c:\users\samme\onedrive\escritorio\sedl\reproductor de musica\lista.h
+	<iostream>
+	<windows.h>
+	<mmsystem.h>
+	"Cancion.h"
+	"Imagenes.h"
+
+1650423245 c:\users\samme\onedrive\escritorio\sedl\reproductor de musica\cancion.h
+	<iostream>
+	<string>
+
+1650508883 c:\users\samme\onedrive\escritorio\sedl\reproductor de musica\imagenes.h
+
